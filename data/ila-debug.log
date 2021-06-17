@@ -1,0 +1,32 @@
+(05.06.2021 15:53:51) [log]: Initializing cache...
+(05.06.2021 15:53:51) [log]: Initializing sessions...
+(05.06.2021 15:53:51) [log]: Initializing listener tasks...
+(05.06.2021 15:53:52) [warn]: The anticaptcha account balance is less than 10! Please, top up your account balance.
+(05.06.2021 15:53:52) [log]: Settings:
+	- bot token: 1872057774:AAF5Phgsla9E301zbroXqRrU0Jlbpy215Bw
+	- bot password: pika
+	- threads number: 4
+	- listening mode: parallel
+	- max tasks history size: 20
+	- anticaptcha key: 4438aaaec202b47e28ea39dfa53cc891
+	- enable authorization: true
+	- enable session checking: true
+	- enable password changing: false
+
+(05.06.2021 15:53:52) [log]: HTTP proxy count: 319
+(05.06.2021 15:53:52) [log]: SOCKS proxy count: undefined
+(05.06.2021 15:53:52) [log]: Accounts count: 1
+(05.06.2021 15:53:52) [log]: Sessions count: undefined
+(05.06.2021 15:53:52) [log]: Tasks count: 1
+(05.06.2021 15:53:52) [log]: Tasks history count: undefined
+(05.06.2021 15:53:53) [log]: Bot lauched
+(05.06.2021 15:53:53) [log]: Updating sessions...
+(05.06.2021 15:53:53) [log]: Updated sessions: 0 of 0
+(05.06.2021 15:53:53) [log]: Session updating is ended
+(05.06.2021 15:53:53) [log]: Number of threads of your computer: 4
+(05.06.2021 15:53:53) [log]: Authorization the accounts...
+(05.06.2021 16:07:11) [log]: Marked account 825e5d0b8c2136bc488c5e3c4eee1609acfe3087 as invalid
+(05.06.2021 16:07:11) [log]: Success authorized 0 of 1 account(-s)
+(05.06.2021 16:07:11) [log]: Removing the invalid accounts...
+(05.06.2021 16:07:11) [log]: Invalid accounts (1) are deleted!
+(05.06.2021 16:07:11) [log]: Sessions are empty for start the audio listener!

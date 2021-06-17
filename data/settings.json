@@ -1,0 +1,12 @@
+{
+	"maxTasksHistoryCapacity": 20,
+	"threads": 4,
+	"botToken": "1872057774:AAF5Phgsla9E301zbroXqRrU0Jlbpy215Bw",
+	"botPassword": "pika",
+	"antiCaptchaKey": "4438aaaec202b47e28ea39dfa53cc891",
+	"listeningMode": "parallel",
+	"enableMonetize": false,
+	"skipAuthorization": false,
+	"skipSessionChecking": false,
+	"skipPasswordChanging": true
+}

@@ -1,0 +1,21 @@
+{
+	"sessions": [],
+	"tasksHistory": [],
+	"tasks": [
+		{
+			"id": "56321142221356010964",
+			"speed": 0,
+			"enabled": true,
+			"playlistMeta": {
+				"ownerId": "180904267",
+				"id": "9",
+				"accessHash": "27bf4d6d7d3b9b9b04"
+			},
+			"initialCount": 49,
+			"actualCount": 49,
+			"requiredCount": 15,
+			"priority": 2,
+			"maxSessionsCount": 0
+		}
+	]
+}
