@@ -1,2 +1,2 @@
 # Vkmusic
-Vkmusic - Cheating auditions on requests
+Vkmusic - auditions on requests vk
